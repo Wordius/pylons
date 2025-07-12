@@ -4,6 +4,7 @@ description = "Because rural lives matter. Our lives matter"
 # The URL the site will be built for
 base_url = "https://example.com"
 
+# Notes
 
 # Theme
 theme = "hyde"
