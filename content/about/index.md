@@ -13,4 +13,4 @@ The group’s mission:
 - to stop National Grid from defacing the stretch of Lincolnshire countryside from Spalding to Leicestershire in order to transmit its power, which originates in Scotland, to the south of England.
 - to make National Grid rethink its proposals.
 - have they thought about the ‘other’ costs involved: our costs, the impact on our daily lives; 
-- box tickers. 
+- box tickers (project managers). 
